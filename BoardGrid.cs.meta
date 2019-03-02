@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9b06b9c7440214a4a9a0477cb6149c63
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tilePrefab: {fileID: 4986534277355534, guid: e67990bbe7832d9479c8401abb98e75f,
+      type: 2}
+  - tilePrefab2: {fileID: 4878930491605478, guid: 5b080e1ec0036b446950c702004beec7,
+      type: 2}
+  - attackLightPrefab: {fileID: 4118981178855416, guid: 27a7beee8756e8d48a6a407423512de8,
+      type: 2}
+  - movementHighlightPrefab: {fileID: 4524552933407172, guid: cc21b464028397549af716b07369cd29,
+      type: 2}
+  executionOrder: -50
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
